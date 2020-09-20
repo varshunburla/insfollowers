@@ -2,7 +2,7 @@
 Insta followers
 
 
-Code
+
 pkg up -y
 pkg install git -y
 pkg install openssl-tool
